@@ -12,5 +12,6 @@ except:
 if irphrs > 0.0 and ihrs > 0 :
     pay: float = float(hrs) * float(rphrs)
     print(pay)
+
 else:
-    print("Input Not a Number")
+    print("Input not a Number")
