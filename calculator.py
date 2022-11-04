@@ -1,5 +1,5 @@
-hrs = input("Enter Hours: ")
-rphrs = input("Enter Rate: ")
+    hrs = input("Enter Hours: ")
+    rphrs = input("Enter Rate: ")
 
 try:
     irphrs = float(rphrs)
